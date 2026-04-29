@@ -1,6 +1,6 @@
 # Logistic-Regression
 A logistic regression approach to modeling consumer preferences for online vs. offline shopping in Nigeria using survey data, statistical analysis, and predictive modeling.
-# 0verview
+# Overview
 
 This project explores consumer shopping preferences between online and offline platforms in Nigeria using Binary Logistic Regression. The study investigates how demographic and behavioral factors such as age, gender, income level, education, convenience, trust/security, product variety, price sensitivity, and customer satisfaction influence shopping mode preference.
 
@@ -26,14 +26,14 @@ ROC Curve Analysis
 Tools
 R Programming Language
 Excel / Survey Data Processing
-Key Findings
+# Key Findings
 Consumer Preference
 Majority of respondents preferred online shopping.
-Significant Factors
+# Significant Factors
 Convenience was the strongest predictor of shopping preference.
 Age significantly influenced whether consumers preferred online or offline shopping.
-Satisfaction Comparison
+# Satisfaction Comparison
 Consumers reported higher satisfaction with offline shopping compared to online shopping.
-Model Performance
-Good model fit using Hosmer-Lemeshow Test.
-ROC AUC showed acceptable predictive performance.
+# Model Performance
+-  Good model fit using Hosmer-Lemeshow Test.
+- ROC AUC showed acceptable predictive performance.

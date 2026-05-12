@@ -1,0 +1,322 @@
+Age,Gender,Income level,Education Level,Shopping_online_rate,shop_offline_rate , factors influence your choice of shopping online or offline ,Price,Convenience,Trust/Security,Product Variety,Customer service,  Statitifaction_Shop_online,Statistifaction_offline_shop,challenges_online_shopping,High prices,Delivery delays,Fraud/Scams,Poor product quality,Limited payment options,challenges_offline shopping  ,Long queue,High prices,Limited product variety,Distance to stores,Poor customer service, spend_per_month_on_online_shopping,  spend_per_month_on_offline_shopping?  ,preference  , additional comments on your shopping preferences
+18-25,Female,"50,000-100,000",Tertiary,Frequently,Frequently,Convenience,0,1,0,0,0,5,5,Delivery delays,0,1,0,0,0,High prices,0,1,0,0,0,"Above 100,0010","50,00 - 100,0010",Yes,
+18-25,Male,"Above 500,000",Tertiary,Frequently,Frequently,Price;Convenience;Trust/Security;Product variety;Customer service,1,1,1,1,1,3,5,High prices;Delivery delays;Fraud/Scams;Poor product quality,1,1,1,1,0,Limited product variety;Distance to stores,0,0,1,1,0,"Above 100,0010","Above 100,0010",Yes,Inability to bargain prices for online shopping. 
+18-25,Male,"Above 500,000",Postgraduate,Occasionally ,Frequently,Trust/Security,0,0,1,0,0,2,5,Delivery delays;Poor product quality,0,1,0,1,0,Distance to stores,0,0,0,1,0,"Above 100,0010","Above 100,0010",No,
+46 and above,Male,"Above 500,000",Tertiary,Rarely,Frequently,Price;Trust/Security,1,0,1,0,0,2,5,High prices;Fraud/Scams,1,0,1,0,0,Distance to stores,0,0,0,1,0,"Below 10,000","Above 100,0010",No,
+18-25,Female,"200,001-500,000",Tertiary,Frequently,Frequently,Price;Convenience;Trust/Security;Product variety;Customer service,1,1,1,1,1,5,3,Delivery delays;Limited payment options,0,1,0,0,1,High prices;Distance to stores;Poor customer service,0,1,0,1,1,"10,000  -  50,000","10,000  -  50,000",Yes,
+26-35,Female,"50,000-100,000",Postgraduate,Frequently,Occasionally ,Price,1,0,0,0,0,3,4,Fraud/Scams,0,0,1,0,0,Distance to stores,0,0,0,1,0,"Below 10,000","Below 10,000",No,
+46 and above,Male,"Above 500,000",Tertiary,Never,Frequently,Convenience,0,1,0,0,0,1,5,Fraud/Scams,0,0,1,0,0,Poor customer service,0,0,0,0,1,"Below 10,000","50,00 - 100,0010",No,
+26-35,Male,"100,001-200,000",Tertiary,Rarely,Frequently,Trust/Security;Customer service,0,0,1,0,1,2,4,Delivery delays;Poor product quality,0,1,0,1,0,Distance to stores,0,0,0,1,0,"Below 10,000","50,00 - 100,0010",No,
+46 and above,Female,"50,000-100,000",Secondary,Frequently,Rarely,Convenience,0,1,0,0,0,5,5,Delivery delays,0,1,0,0,0,Long queues,1,0,0,0,0,"Below 10,000","Below 10,000",Yes,
+26-35,Male,"50,000-100,000",Secondary,Rarely,Frequently,Price;Trust/Security;Product variety;Customer service,1,0,1,1,1,2,4,Fraud/Scams;Poor product quality,0,0,1,1,0,Long queues;Distance to stores,1,0,0,1,0,"Below 10,000","10,000  -  50,000",No,
+26-35,Male,"50,000-100,000",Postgraduate,Frequently,Frequently,Price;Convenience,1,1,0,0,0,5,5,Delivery delays;Poor product quality,0,1,0,1,0,Distance to stores,0,0,0,1,0,"10,000  -  50,000","50,00 - 100,0010",Yes,
+18-25,Male,"50,000-100,000",Postgraduate,Occasionally ,Occasionally ,Convenience;Product variety;Customer service,0,1,0,1,1,4,2,High prices;Poor product quality,1,0,0,1,0,Limited product variety;Distance to stores;Poor customer service,0,0,1,1,1,"10,000  -  50,000","Below 10,000",Yes,
+46 and above,Female,"200,001-500,000",Postgraduate,Occasionally ,Occasionally ,Customer service,0,0,0,0,1,3,5,High prices,1,0,0,0,0,High prices,0,1,0,0,0,"10,000  -  50,000","10,000  -  50,000",No,No
+26-35,Female,"100,001-200,000",Postgraduate,Frequently,Occasionally ;Frequently,Price;Convenience;Trust/Security;Product variety,1,1,1,1,0,4,5,High prices;Delivery delays;Poor product quality,1,1,0,1,0,Long queues;High prices;Limited product variety;Distance to stores,1,1,1,1,0,"50,00 - 100,0010;Above 100,0010","50,00 - 100,0010",Yes,Online shopping delivers your goods to one’s doorstep and can make returns if you’re not satisfied with what you receive within certain period of time… but offline shopping are actually good too
+26-35,Female,"Above 500,000",Tertiary,Frequently,Frequently,Price;Convenience;Trust/Security;Product variety;Customer service,1,1,1,1,1,4,5,Delivery delays,0,1,0,0,0,Distance to stores,0,0,0,1,0,"Above 100,0010","Above 100,0010",No,
+46 and above,Female,"100,001-200,000",Postgraduate,Rarely,Frequently,Product variety,0,0,0,1,0,3,4,Poor product quality,0,0,0,1,0,Distance to stores,0,0,0,1,0,"10,000  -  50,000","50,00 - 100,0010",No,Offline gives me opportunity to get other things purchased. 
+46 and above,Female,"200,001-500,000",Postgraduate,Frequently,Frequently,Convenience;Product variety,0,1,0,1,0,3,5,Delivery delays;Poor product quality,0,1,0,1,0,Distance to stores,0,0,0,1,0,"10,000  -  50,000","Above 100,0010",No,Offline shopping is preferable reasons being that you see what you’re buying and you have the choice of variety. Unlike online shopping that it’s at delivery you see the product and you might not be satisfied. In a simple terms online might be deceitful. 
+46 and above,Female,"50,000-100,000",Secondary,Rarely,Frequently,Convenience;Product variety,0,1,0,1,0,3,5,High prices;Delivery delays;Fraud/Scams,1,1,1,0,0,Distance to stores;Poor customer service,0,0,0,1,1,"Below 10,000","Above 100,0010",No,
+46 and above,Male,"200,001-500,000",Tertiary,Rarely,Occasionally ,Convenience,0,1,0,0,0,3,4,Fraud/Scams;Poor product quality,0,0,1,1,0,Limited product variety,0,0,1,0,0,"10,000  -  50,000","10,000  -  50,000",Yes,
+46 and above,Male,"200,001-500,000",Tertiary,Frequently,Frequently,Product variety,0,0,0,1,0,1,5,Fraud/Scams,0,0,1,0,0,Distance to stores,0,0,0,1,0,"10,000  -  50,000","Above 100,0010",No,
+36 - 45,Female,"100,001-200,000",Tertiary,Occasionally ,Frequently,Convenience,0,1,0,0,0,3,5,Fraud/Scams,0,0,1,0,0,Distance to stores,0,0,0,1,0,"Below 10,000","50,00 - 100,0010",No,
+26-35,Female,"100,001-200,000",Tertiary,Frequently,Frequently,Price;Convenience;Trust/Security;Product variety;Customer service,1,1,1,1,1,3,4,Delivery delays;Poor product quality,0,1,0,1,0,Long queues;Distance to stores,1,0,0,1,0,"10,000  -  50,000","Above 100,0010",No,I love online shopping because of the ease that comes with it but I prefer offline shopping because of the guarantee of getting exactly what I want 
+36 - 45,Female,"200,001-500,000",Postgraduate,Occasionally ,Frequently,Convenience,0,1,0,0,0,3,5,Poor product quality,0,0,0,1,0,Distance to stores,0,0,0,1,0,"10,000  -  50,000","50,00 - 100,0010",No,
+46 and above,Female,"100,001-200,000",Postgraduate,Occasionally ,Frequently,Convenience,0,1,0,0,0,5,5,Limited payment options,0,0,0,0,1,Distance to stores,0,0,0,1,0,"10,000  -  50,000","50,00 - 100,0010",Yes,Online made things easy for me and less my stress.
+46 and above,Female,"Above 500,000",Postgraduate,Occasionally ,Frequently,Product variety,0,0,0,1,0,4,5,Poor product quality,0,0,0,1,0,Distance to stores,0,0,0,1,0,"Below 10,000","10,000  -  50,000",No,"Offline is the best, what you see is what you get!"
+36 - 45,Female,"100,001-200,000",Postgraduate,Occasionally ,Frequently,Trust/Security,0,0,1,0,0,1,5,Fraud/Scams;Poor product quality,0,0,1,1,0,Limited product variety;Distance to stores,0,0,1,1,0,"10,000  -  50,000","50,00 - 100,0010",No,Increase in level of price and quantity product.
+46 and above,Male,"200,001-500,000",Tertiary,Never,Frequently,Trust/Security,0,0,1,0,0,3,5,Poor product quality,0,0,0,1,0,Distance to stores,0,0,0,1,0,"Below 10,000","10,000  -  50,000",No,
+46 and above,Female,"200,001-500,000",Tertiary,Rarely,Frequently,Convenience,0,1,0,0,0,4,5,Poor product quality,0,0,0,1,0,Long queues;Distance to stores,1,0,0,1,0,"10,000  -  50,000","50,00 - 100,0010",Yes,On line shopping makes things easy 
+36 - 45,Male,"100,001-200,000",Tertiary,Rarely,Frequently,Price;Convenience;Customer service,1,1,0,0,1,3,4,Delivery delays;Fraud/Scams;Poor product quality;Limited payment options,0,1,1,1,1,Poor customer service,0,0,0,0,1,"Below 10,000","10,000  -  50,000",Yes,
+18-25,Female,"50,000-100,000",Postgraduate,Frequently,Frequently,Convenience,0,1,0,0,0,2,5,Delivery delays;Fraud/Scams,0,1,1,0,0,Limited product variety,0,0,1,0,0,"10,000  -  50,000","50,00 - 100,0010",No,"Online shopping can be convenient, especially for people who work during the day or during bad weather. However, offline shopping allows customers to immediately access their purchases and experience the product before buying. "
+46 and above,Female,"Above 500,000",Postgraduate,Rarely,Frequently,Price;Convenience,1,1,0,0,0,1,5,Fraud/Scams,0,0,1,0,0,Long queues,1,0,0,0,0,"Below 10,000","50,00 - 100,0010",No,I prefer off line shopping because it's more real.
+18-25,Female,"50,000-100,000",Tertiary,Occasionally ,Frequently,Product variety,0,0,0,1,0,2,4,Delivery delays,0,1,0,0,0,Distance to stores,0,0,0,1,0,"Below 10,000","10,000  -  50,000",No,
+18-25,Female,"50,000-100,000",Tertiary,Rarely,Occasionally ,Price,1,0,0,0,0,2,5,Delivery delays,0,1,0,0,0,High prices,0,1,0,0,0,"Below 10,000","10,000  -  50,000",No,
+36 - 45,Female,"100,001-200,000",Tertiary,Rarely,Frequently,Product variety,0,0,0,1,0,3,5,Delivery delays,0,1,0,0,0,Distance to stores,0,0,0,1,0,"10,000  -  50,000","10,000  -  50,000",No,
+18-25,Female,"Below 50,000",Tertiary,Rarely,Frequently,Trust/Security,0,0,1,0,0,2,5,Fraud/Scams,0,0,1,0,0,Distance to stores,0,0,0,1,0,"Below 10,000","10,000  -  50,000",No,
+18-25,Male,"200,001-500,000",Postgraduate,Frequently,Rarely,Convenience;Trust/Security;Product variety,0,1,1,1,0,5,3,Poor product quality,0,0,0,1,0,Limited product variety;Distance to stores,0,0,1,1,0,"50,00 - 100,0010","10,000  -  50,000",Yes,N/A
+26-35,Male,"100,001-200,000",Tertiary,Rarely,Frequently,Price;Convenience,1,1,0,18-25,0,3,4,High prices;Delivery delays;Poor product quality,1,1,0,1,0,High prices;Distance to stores;Poor customer service,0,1,0,1,1,"10,000  -  50,000","10,000  -  50,000",No,
+18-25,Female,"200,001-500,000",Tertiary,Rarely,Frequently,Price;Trust/Security;Product variety,1,0,1,1,0,3,5,High prices;Fraud/Scams,1,0,1,0,0,Distance to stores,0,0,0,1,0,"Below 10,000","50,00 - 100,0010",No,
+18-25,Male,"100,001-200,000",Tertiary,Occasionally ,Frequently,Convenience,0,1,0,0,0,3,4,Delivery delays;Fraud/Scams;Poor product quality,0,1,1,1,0,High prices;Distance to stores;Poor customer service,0,1,0,1,1,"10,000  -  50,000","10,000  -  50,000",Yes,
+18-25,Male,"200,001-500,000",Tertiary,Frequently,Frequently,Convenience;Trust/Security,0,1,1,0,0,3,5,Delivery delays;Fraud/Scams;Poor product quality;Limited payment options,0,1,1,1,1,Limited product variety,0,0,1,0,0,"50,00 - 100,0010","10,000  -  50,000",Yes,
+18-25,Female,"Below 50,000",Secondary,Rarely,Frequently,Convenience,0,1,0,0,0,3,4,Delivery delays,0,1,0,0,0,Distance to stores,0,0,0,1,0,"10,000  -  50,000","10,000  -  50,000",No,
+18-25,Male,"Below 50,000",Secondary,Never,Frequently,Price;Convenience;Trust/Security;Customer service,1,1,1,0,1,2,5,High prices;Delivery delays;Fraud/Scams,1,1,1,0,0,Limited product variety;Distance to stores,0,0,1,1,0,"Below 10,000","50,00 - 100,0010",No,
+18-25,Female,"Above 500,000",Postgraduate,Frequently,Frequently,Price;Convenience;Trust/Security;Product variety;Customer service,1,1,1,1,1,4,5,High prices;Delivery delays;Fraud/Scams;Poor product quality,1,1,1,1,0,Limited product variety;Distance to stores,0,0,1,1,0,"50,00 - 100,0010","50,00 - 100,0010",Yes,
+18-25,Female,"Below 50,000",Postgraduate,Frequently,Frequently,Price;Convenience;Product variety;Customer service,1,1,0,1,1,3,4,High prices;Fraud/Scams;Poor product quality,1,0,1,1,0,Limited product variety;Distance to stores,0,0,1,1,0,"10,000  -  50,000","50,00 - 100,0010",Yes,
+18-25,Male,"Below 50,000",Tertiary,Rarely,Frequently,Convenience,0,1,0,0,0,3,4,Delivery delays,0,1,0,0,0,High prices;Limited product variety;Distance to stores,0,1,1,1,0,"Below 10,000","10,000  -  50,000",No,
+18-25,Female,"Below 50,000",Tertiary,Rarely,Occasionally ,Price;Convenience;Trust/Security,1,1,1,0,0,3,5,Fraud/Scams;Poor product quality,0,0,1,1,0,Limited product variety;Poor customer service,0,0,1,0,1,"Below 10,000","10,000  -  50,000",No,
+18-25,Female,"Below 50,000",Tertiary,Never,Rarely,Price,1,0,0,0,0,3,5,Poor product quality,0,0,0,1,0,Limited product variety,0,0,1,0,0,"Below 10,000","Below 10,000",No,
+18-25,Male,"Below 50,000",Tertiary,Rarely,Frequently,Price,1,0,0,0,0,3,4,High prices;Poor product quality,1,0,0,1,0,Distance to stores;Poor customer service,0,0,0,1,1,"Below 10,000","Below 10,000",Yes,
+18-25,Male,"200,001-500,000",Tertiary,Occasionally ,Frequently,Convenience,0,1,0,0,0,5,5,Delivery delays,0,1,0,0,0,Limited product variety,0,0,1,0,0,"10,000  -  50,000","Above 100,0010",No,
+18-25,Female,"Below 50,000",Tertiary,Rarely,Frequently,Price;Convenience,1,1,0,0,0,3,5,High prices;Poor product quality,1,0,0,1,0,Distance to stores,0,0,0,1,0,"Below 10,000","10,000  -  50,000",No,
+18-25,Male,"Below 50,000",Tertiary,Rarely,Frequently,Product variety,0,0,0,1,0,4,5,Poor product quality,0,0,0,1,0,Poor customer service,0,0,0,0,1,"Below 10,000","10,000  -  50,000",No,
+46 and above,Female,"200,001-500,000",Tertiary,Occasionally ,Frequently,Convenience,0,1,0,0,0,4,5,High prices,1,0,0,0,0,Distance to stores,0,0,0,1,0,"10,000  -  50,000","50,00 - 100,0010",No,
+18-25,Male,"50,000-100,000",Tertiary,Rarely,Occasionally ,Convenience,0,1,0,0,0,3,4,High prices;Delivery delays;Fraud/Scams;Poor product quality,1,1,1,1,0,Long queues;Limited product variety;Distance to stores,1,0,1,1,0,"Below 10,000","10,000  -  50,000",Yes,N/A
+18-25,Male,"Below 50,000",Tertiary,Rarely,Frequently,Price;Convenience;Trust/Security;Product variety;Customer service,1,1,1,1,1,3,5,High prices;Poor product quality,1,0,0,1,0,Long queues;Limited product variety;Distance to stores,1,0,1,1,0,"Below 10,000","10,000  -  50,000",No,
+46 and above,Female,"100,001-200,000",Tertiary,Occasionally ,Occasionally ,Customer service,0,0,0,0,1,3,4,Poor product quality,0,0,0,1,0,Long queues,1,0,0,0,0,"Below 10,000","10,000  -  50,000",No,
+18-25,Female,"50,000-100,000",Secondary,Occasionally ,Frequently,Price;Convenience;Trust/Security;Product variety,1,1,1,1,0,3,4,High prices;Fraud/Scams;Poor product quality,1,0,1,1,0,Distance to stores,0,0,0,1,0,"10,000  -  50,000","Above 100,0010",No,
+46 and above,Male,"100,001-200,000",Tertiary,Never,Frequently,Convenience,0,1,0,0,0,1,5,Poor product quality,0,0,0,1,0,Long queues,1,0,0,0,0,"Below 10,000","10,000  -  50,000",No,I can see and touch and feel them before I buy 
+36 - 45,Female,"50,000-100,000",Tertiary,Occasionally ,Frequently,Price;Convenience;Trust/Security,1,1,1,0,0,4,5,Fraud/Scams;Poor product quality,0,0,1,1,0,Limited product variety,0,0,1,0,0,"Below 10,000","Above 100,0010",No,
+36 - 45,Female,"200,001-500,000",Postgraduate,Rarely,Occasionally ,Convenience,0,1,0,0,0,3,3,High prices,1,0,0,0,0,Distance to stores,0,0,0,1,0,"10,000  -  50,000","50,00 - 100,0010",No,
+46 and above,Female,"200,001-500,000",Tertiary,Occasionally ,Frequently,Product variety,0,0,0,1,0,3,5,Delivery delays;Poor product quality,0,1,0,1,0,Distance to stores;Poor customer service,0,0,0,1,1,"10,000  -  50,000","Above 100,0010",No,
+26-35,Female,"200,001-500,000",Postgraduate,Frequently,Frequently,Price;Convenience;Trust/Security;Customer service,1,1,1,0,1,4,5,High prices;Delivery delays;Fraud/Scams,1,1,1,0,0,Distance to stores,0,0,0,1,0,"10,000  -  50,000","50,00 - 100,0010",No,
+18-25,Female,"100,001-200,000",Tertiary,Rarely,Frequently,Trust/Security;Product variety,0,0,1,1,0,2,4,Delivery delays;Poor product quality,0,1,0,1,0,Long queues;High prices;Limited product variety;Distance to stores,1,1,1,1,0,"50,00 - 100,0010","50,00 - 100,0010",No,
+46 and above,Female,"200,001-500,000",Postgraduate,Occasionally ,Occasionally ,Product variety,0,0,0,1,0,3,3,Limited payment options,0,0,0,0,1,Limited product variety,0,0,1,0,0,"10,000  -  50,000","10,000  -  50,000",No,No 
+46 and above,Female,"Above 500,000",Tertiary,Rarely,Frequently,Product variety,0,0,0,1,0,2,5,Poor product quality,0,0,0,1,0,Distance to stores,0,0,0,1,0,"Below 10,000","10,000  -  50,000",No,Seeing what you are buying before payment 
+36 - 45,Male,"200,001-500,000",Postgraduate,Occasionally ,Frequently,Price;Convenience;Trust/Security;Product variety;Customer service,1,1,1,1,1,3,4,Fraud/Scams;Poor product quality,0,0,1,1,0,Limited product variety;Distance to stores,0,0,1,1,0,"10,000  -  50,000","Above 100,0010",No,Nil
+46 and above,Male,"200,001-500,000",Secondary,Never,Frequently,Trust/Security,0,0,1,0,0,1,5,Fraud/Scams,0,0,1,0,0,Long queues,1,0,0,0,0,"Below 10,000","Above 100,0010",No,I enjoy seeing what am buying and being able to inspect to the determines the quality of the product am buying 
+26-35,Female,"100,001-200,000",Postgraduate,Never,Occasionally ,Price,1,0,0,0,0,2,4,High prices;Fraud/Scams;Poor product quality,1,0,1,1,0,Long queues;Distance to stores,1,0,0,1,0,"Below 10,000","10,000  -  50,000",No,
+46 and above,Male,"50,000-100,000",Postgraduate,Occasionally ,Frequently,Product variety,0,0,0,1,0,5,5,Delivery delays;Fraud/Scams,0,1,1,0,0,Long queues;Poor customer service,1,0,0,0,1,"Below 10,000","10,000  -  50,000",No,Not really but interesting.
+46 and above,Male,"200,001-500,000",Tertiary,Occasionally ,Frequently,Price;Convenience,1,1,0,0,0,4,5,Delivery delays;Poor product quality,0,1,0,1,0,Distance to stores;Poor customer service,0,0,0,1,1,"10,000  -  50,000","Above 100,0010",No,"Online shopping would have been the Ideal way to shop but, a lot still need to be done in this part of the world for online shopping to thrive "
+46 and above,Female,"Above 500,000",Tertiary,Never,Frequently,Price;Convenience;Product variety,1,1,0,1,0,1,5,Delivery delays,0,1,0,0,0,Long queues;Distance to stores,1,0,0,1,0,"Below 10,000","50,00 - 100,0010",No,None 
+18-25,Female,"Below 50,000",Tertiary,Frequently,Frequently,Convenience,0,1,0,0,0,4,5,Limited payment options,0,0,0,0,1,Distance to stores;Poor customer service,0,0,0,1,1,"10,000  -  50,000","Above 100,0010",Yes,
+46 and above,Male,"Above 500,000",Postgraduate,Frequently,Frequently,Convenience;Product variety;Customer service,0,1,0,1,1,4,3,Delivery delays;Fraud/Scams;Poor product quality,0,1,1,1,0,Long queues;Distance to stores;Poor customer service,1,0,0,1,1,"Above 100,0010","50,00 - 100,0010",Yes,
+46 and above,Male,"Above 500,000",Tertiary,Rarely,Frequently,Convenience,0,1,0,0,0,2,5,Limited payment options,0,0,0,0,1,Distance to stores,0,0,0,1,0,"Below 10,000","10,000  -  50,000",No,
+18-25,Female,"Above 500,000",Tertiary,Rarely,Rarely,Convenience,0,1,0,0,0,5,3,Delivery delays,0,1,0,0,0,Long queues,1,0,0,0,0,"10,000  -  50,000","50,00 - 100,0010",Yes,
+36 - 45,Female,"200,001-500,000",Postgraduate,Frequently,Frequently,Price;Convenience;Trust/Security;Product variety;Customer service,1,1,1,1,1,3,5,High prices;Fraud/Scams,1,0,1,0,0,Poor customer service,0,0,0,0,1,"10,000  -  50,000","Above 100,0010",No,
+46 and above,Female,"200,001-500,000",Postgraduate,Occasionally ,Frequently,Convenience;Trust/Security;Product variety,0,1,1,1,0,2,4,Delivery delays;Fraud/Scams;Poor product quality,0,1,1,1,0,Long queues;Distance to stores,1,0,0,1,0,"10,000  -  50,000","50,00 - 100,0010",No,
+46 and above,Female,"100,001-200,000",Postgraduate,Rarely,Frequently,Price,1,0,0,0,0,2,4,Fraud/Scams,0,0,1,0,0,Distance to stores,0,0,0,1,0,"10,000  -  50,000","50,00 - 100,0010",No,I am not a genz.  So I feel comfortable shopping offline
+46 and above,Female,"200,001-500,000",Postgraduate,Occasionally ,Frequently,Trust/Security;Product variety,0,0,1,1,0,4,5,Delivery delays;Poor product quality,0,1,0,1,0,Distance to stores;Poor customer service,0,0,0,1,1,"50,00 - 100,0010","Above 100,0010",No,
+46 and above,Female,"100,001-200,000",Postgraduate,Occasionally ,Frequently,Product variety,0,0,0,1,0,4,5,Fraud/Scams;Poor product quality,0,0,1,1,0,Distance to stores,0,0,0,1,0,"10,000  -  50,000","50,00 - 100,0010",No,
+26-35,Male,"100,001-200,000",Tertiary,Occasionally ,Rarely,Convenience;Trust/Security,0,1,1,0,0,4,3,Fraud/Scams;Poor product quality,0,0,1,1,0,Long queues;Distance to stores,1,0,0,1,0,"50,00 - 100,0010","50,00 - 100,0010",Yes,
+18-25,Female,"50,000-100,000",Postgraduate,Rarely,Frequently,Price;Convenience;Trust/Security;Product variety;Customer service,1,1,1,1,1,3,4,Poor product quality,0,0,0,1,0,Poor customer service,0,0,0,0,1,"Below 10,000","10,000  -  50,000",No,
+46 and above,Female,"200,001-500,000",Postgraduate,Occasionally ,Frequently,Price,1,0,0,0,0,4,4,Fraud/Scams,0,0,1,0,0,High prices,0,1,0,0,0,"10,000  -  50,000","50,00 - 100,0010",Yes,Online is less stressful 
+46 and above,Female,"200,001-500,000",Postgraduate,Rarely,Frequently,Price,1,0,0,0,0,1,3,Poor product quality,0,0,0,1,0,Distance to stores,0,0,0,1,0,"Below 10,000","10,000  -  50,000",No,
+46 and above,Male,"100,001-200,000",Secondary,Occasionally ,Frequently,Price,1,0,0,0,0,3,5,Delivery delays,0,1,0,0,0,Distance to stores,0,0,0,1,0,"10,000  -  50,000","50,00 - 100,0010",No,
+26-35,Male,"Below 50,000",Tertiary,Occasionally ,Occasionally ,Price;Convenience;Product variety,1,1,0,1,0,4,4,High prices;Delivery delays;Poor product quality,1,1,0,1,0,Limited product variety;Distance to stores,0,0,1,1,0,"Below 10,000","Below 10,000",No,No
+46 and above,Female,"Above 500,000",Tertiary,Rarely;Occasionally ,Frequently,Product variety,0,0,0,1,0,3,5,Delivery delays;Poor product quality,0,1,0,1,0,Distance to stores,0,0,0,1,0,"Below 10,000","Above 100,0010",No,Atimes quality and sizes delivered are not what you viewed on line
+46 and above,Female,"50,000-100,000",Postgraduate,Occasionally ,Frequently,Trust/Security,0,0,1,0,0,3,5,Poor product quality,0,0,0,1,0,Distance to stores,0,0,0,1,0,"50,00 - 100,0010","Above 100,0010",Yes,
+36 - 45,Female,"50,000-100,000",Tertiary,Frequently,Frequently,Convenience,0,1,0,0,0,5,3,Fraud/Scams,0,0,1,0,0,High prices;Distance to stores;Poor customer service,0,1,0,1,1,"10,000  -  50,000","Above 100,0010",Yes,
+46 and above,Male,"200,001-500,000",Postgraduate,Never,Frequently,Trust/Security,0,0,1,0,0,1,5,Fraud/Scams,0,0,1,0,0,Poor customer service,0,0,0,0,1,"10,000  -  50,000","Above 100,0010",No,
+18-25,Male,"100,001-200,000",Postgraduate,Frequently,Occasionally ,Price,1,0,0,0,0,5,5,High prices,1,0,0,0,0,Distance to stores,0,0,0,1,0,"50,00 - 100,0010","50,00 - 100,0010",Yes,
+18-25,Male,"Below 50,000",Tertiary,Never,Frequently,Convenience,0,1,0,0,0,2,4,High prices;Delivery delays;Fraud/Scams,1,1,1,0,0,Long queues;Limited product variety,1,0,1,0,0,"Below 10,000","50,00 - 100,0010",No,
+26-35,Female,"200,001-500,000",Postgraduate,Rarely,Frequently,Convenience;Trust/Security;Product variety,0,1,1,1,0,3,5,Delivery delays;Fraud/Scams;Poor product quality,0,1,1,1,0,Long queues;Distance to stores,1,0,0,1,0,"10,000  -  50,000","50,00 - 100,0010",No,
+18-25,Male,"Below 50,000",Postgraduate,Occasionally ,Frequently,Convenience,0,1,0,0,0,4,5,Poor product quality,0,0,0,1,0,Long queues;Limited product variety,1,0,1,0,0,"Below 10,000","Below 10,000",Yes,Online shopping gives a convenient delivery of which you don't have to bargain with many other customers for preferential goods buh you can get it even from other stores while you're placing an order at your convenient house address.
+46 and above,Female,"200,001-500,000",Tertiary,Frequently,Frequently,Price;Convenience;Trust/Security;Product variety;Customer service,1,1,1,1,1,4,5,Delivery delays;Fraud/Scams;Poor product quality,0,1,1,1,0,Long queues;High prices;Limited product variety;Poor customer service,1,1,1,0,1,"Above 100,0010","Above 100,0010",No,"If scammer are removed,  then online shopping would be great "
+26-35,Female,"100,001-200,000",Tertiary,Occasionally ,Frequently,Price,1,0,0,0,0,4,5,Fraud/Scams,0,0,1,0,0,High prices,0,1,0,0,0,"10,000  -  50,000","50,00 - 100,0010",No,
+18-25,Female,"Below 50,000",Secondary,Never,Rarely,Price;Convenience,1,1,0,0,0,2,5,High prices;Delivery delays;Fraud/Scams;Poor product quality;Limited payment options,1,1,1,1,1,Long queues;Distance to stores,1,0,0,1,0,"Below 10,000","Below 10,000",No,
+18-25,Female,"Below 50,000",Postgraduate,Never,Occasionally ,Trust/Security,0,0,1,0,0,1,3,Delivery delays;Fraud/Scams;Poor product quality;Limited payment options,0,1,1,1,1,Long queues;Distance to stores,1,0,0,1,0,"Below 10,000;10,000  -  50,000","10,000  -  50,000",No,Noo
+46 and above,Female,"Below 50,000",Postgraduate,Rarely,Frequently,Trust/Security,0,0,1,0,0,1,4,Poor product quality,0,0,0,1,0,Distance to stores,0,0,0,1,0,"Below 10,000","10,000  -  50,000",No,
+18-25,Female,"Above 500,000",Postgraduate,Rarely,Frequently,Product variety,0,0,0,1,0,3,5,Delivery delays,0,1,0,0,0,Long queues,1,0,0,0,0,"50,00 - 100,0010","Above 100,0010",No,No
+18-25,Female,"Above 500,000",Postgraduate,Frequently,Occasionally ,Price;Convenience;Customer service,1,1,0,0,1,4,5,Delivery delays;Poor product quality,0,1,0,1,0,High prices;Limited product variety,0,1,1,0,0,"50,00 - 100,0010","Above 100,0010",Yes,
+26-35,Female,"200,001-500,000",Tertiary,Rarely,Frequently,Price,1,0,0,0,0,4,5,Delivery delays;Fraud/Scams,0,1,1,0,0,Distance to stores,0,0,0,1,0,"10,000  -  50,000","50,00 - 100,0010",No,
+18-25,Female,"50,000-100,000",Postgraduate,Rarely,Frequently,Price;Product variety,1,0,0,1,0,3,4,High prices;Delivery delays;Fraud/Scams,1,1,1,0,0,Long queues;Distance to stores,1,0,0,1,0,"Below 10,000","10,000  -  50,000",Yes,
+18-25,Female,"50,000-100,000",Tertiary,Frequently,Frequently,Price;Convenience;Trust/Security;Product variety;Customer service,1,1,1,1,1,4,4,High prices;Delivery delays;Fraud/Scams;Poor product quality;Limited payment options,1,1,1,1,1,Long queues;High prices;Limited product variety;Distance to stores;Poor customer service,1,1,1,1,1,"10,000  -  50,000","50,00 - 100,0010",Yes,
+18-25,Female,"50,000-100,000",Tertiary,Occasionally ,Frequently,Price;Convenience;Trust/Security;Product variety;Customer service,1,1,1,1,1,4,5,Delivery delays,0,1,0,0,0,Distance to stores,0,0,0,1,0,"10,000  -  50,000","10,000  -  50,000",No,
+18-25,Male,"200,001-500,000",Tertiary,Frequently,Frequently,Trust/Security,0,0,1,0,0,3,4,Delivery delays;Poor product quality,0,1,0,1,0,Distance to stores;Poor customer service,0,0,0,1,1,"50,00 - 100,0010","Above 100,0010",No,
+18-25,Female,"50,000-100,000",Tertiary,Rarely,Rarely,Price,1,0,0,0,0,1,5,Poor product quality,0,0,0,1,0,Limited product variety,0,0,1,0,0,"Below 10,000","10,000  -  50,000",No,
+18-25,Male,"200,001-500,000",Tertiary,Rarely,Frequently,Product variety,0,0,0,1,0,2,4,Fraud/Scams;Poor product quality,0,0,1,1,0,Distance to stores,0,0,0,1,0,"10,000  -  50,000","50,00 - 100,0010",No,
+46 and above,Female,"100,001-200,000",Postgraduate,Occasionally ,Occasionally ,Price,1,0,0,0,0,3,3,Poor product quality,0,0,0,1,0,Limited product variety,0,0,1,0,0,"10,000  -  50,000","10,000  -  50,000",No,Online shopping is not the best
+46 and above,Male,"200,001-500,000",Postgraduate,Occasionally ;Frequently,Frequently,Convenience;Product variety,0,1,0,1,0,2,3,Delivery delays;Fraud/Scams;Poor product quality,0,1,1,1,0,Distance to stores;Poor customer service,0,0,0,1,1,"10,000  -  50,000","Above 100,0010",Yes,
+18-25,Female,"Above 500,000",Postgraduate,Frequently,Frequently,Customer service,0,0,0,0,1,4,5,Delivery delays,0,1,0,0,0,Distance to stores,0,0,0,1,0,"Above 100,0010","Above 100,0010",No,
+36 - 45,Male,"200,001-500,000",Postgraduate,Occasionally ,Frequently,Convenience;Trust/Security,0,1,1,0,0,4,3,Delivery delays,0,1,0,0,0,Long queues;Limited product variety,1,0,1,0,0,"Above 100,0010","Above 100,0010",Yes,Online is great
+46 and above,Male,"Above 500,000",Postgraduate,Occasionally ,Occasionally ,Convenience,0,1,0,0,0,4,3,Fraud/Scams,0,0,1,0,0,Limited product variety,0,0,1,0,0,"10,000  -  50,000","10,000  -  50,000",Yes,
+36 - 45,Female,"50,000-100,000",Tertiary,Occasionally ,Frequently,Price;Convenience;Trust/Security;Product variety,1,1,1,1,0,4,5,Limited payment options,0,0,0,0,1,Distance to stores,0,0,0,1,0,"Below 10,000","10,000  -  50,000",No,
+46 and above,Male,"Above 500,000",Postgraduate,Occasionally ,Rarely,Convenience,0,1,0,0,0,5,4,High prices,1,0,0,0,0,Distance to stores,0,0,0,1,0,"10,000  -  50,000","50,00 - 100,0010",Yes,Timely delivery of online shopping is highly appreciated
+18-25,Male,"100,001-200,000",Tertiary,Rarely,Occasionally ,Price,1,0,0,0,0,4,3,High prices;Delivery delays;Poor product quality,1,1,0,1,0,Distance to stores,0,0,0,1,0,"10,000  -  50,000","10,000  -  50,000",Yes,
+46 and above,Female,"200,001-500,000",Tertiary,Occasionally ,Frequently,Convenience,0,1,0,0,0,4,4,High prices;Limited payment options,1,0,0,0,1,High prices;Limited product variety,0,1,1,0,0,"10,000  -  50,000","50,00 - 100,0010",No,I prefer offline shopping because you will see what you want to buy and negotiate.
+46 and above,Male,"50,000-100,000",Tertiary,Never,Frequently,Price;Convenience;Product variety,1,1,0,1,0,1,5,High prices,1,0,0,0,0,Long queues;Distance to stores;Poor customer service,1,0,0,1,1,"Below 10,000","Above 100,0010",No,"I prefer offline shopping because it is closer to people, allow bargaining me"
+18-25,Female,"Below 50,000",Tertiary,Occasionally ,Frequently,Price,1,0,0,0,0,3,4,Delivery delays;Fraud/Scams;Poor product quality,0,1,1,1,0,Distance to stores;Poor customer service,0,0,0,1,1,"Below 10,000","10,000  -  50,000",Yes,
+18-25,Female,"Below 50,000",Tertiary,Never,Never,Customer service,0,0,0,0,1,1,4,High prices;Fraud/Scams;Poor product quality,1,0,1,1,0,Distance to stores,0,0,0,1,0,"Below 10,000","50,00 - 100,0010",No,
+18-25,Female,"50,000-100,000",Postgraduate,Frequently,Frequently,Convenience,0,1,0,0,0,4,4,High prices;Delivery delays;Fraud/Scams,1,1,1,0,0,Distance to stores,0,0,0,1,0,"Above 100,0010","Above 100,0010",Yes,
+18-25,Female,"50,000-100,000",Tertiary,Frequently,Frequently,Convenience,0,1,0,0,0,4,5,Delivery delays;Fraud/Scams,0,1,1,0,0,Limited product variety,0,0,1,0,0,"50,00 - 100,0010","50,00 - 100,0010",No,None
+18-25,Female,"Below 50,000",Tertiary,Rarely,Frequently,Price,1,0,0,0,0,4,4,Fraud/Scams,0,0,1,0,0,Distance to stores,0,0,0,1,0,"Below 10,000","10,000  -  50,000",Yes,
+18-25,Male,"Below 50,000",Postgraduate,Never,Occasionally ,Customer service,0,0,0,0,1,4,5,Fraud/Scams;Poor product quality,0,0,1,1,0,Poor customer service,0,0,0,0,1,"Below 10,000","10,000  -  50,000",Yes,
+Below 18,Male,"Below 50,000",Tertiary,Rarely,Frequently,Convenience;Trust/Security;Product variety,0,1,1,1,0,4,5,Delivery delays;Poor product quality,0,1,0,1,0,Distance to stores,0,0,0,1,0,"10,000  -  50,000","10,000  -  50,000",No,
+18-25,Female,"Below 50,000",Tertiary,Never,Frequently,Price;Trust/Security,1,0,1,0,0,3,4,High prices;Delivery delays;Poor product quality,1,1,0,1,0,Long queues;Limited product variety;Distance to stores,1,0,1,1,0,"Below 10,000","10,000  -  50,000",Yes,
+18-25,Male,"Above 500,000",Tertiary,Frequently,Occasionally ,Price;Convenience;Trust/Security,1,1,1,0,0,5,4,High prices;Delivery delays,1,1,0,0,0,Long queues;High prices;Distance to stores,1,1,0,1,0,"Above 100,0010","50,00 - 100,0010",Yes,
+Below 18,Male,"Below 50,000",Tertiary,Rarely,Frequently,Convenience;Trust/Security,0,1,1,0,0,3,5,Poor product quality,0,0,0,1,0,Distance to stores,0,0,0,1,0,"10,000  -  50,000","50,00 - 100,0010",Yes,
+18-25,Male,"50,000-100,000",Postgraduate,Occasionally ,Frequently,Price;Convenience;Trust/Security,1,1,1,0,0,4,5,Poor product quality,0,0,0,1,0,Poor customer service,0,0,0,0,1,"50,00 - 100,0010","10,000  -  50,000",Yes,
+18-25,Male,"Below 50,000",Tertiary,Never,Frequently,Convenience;Customer service,0,1,0,0,1,3,4,High prices,1,0,0,0,0,Distance to stores,0,0,0,1,0,"Below 10,000","10,000  -  50,000",No,
+Below 18,Male,"Below 50,000",Tertiary,Never,Frequently,Trust/Security,0,0,1,0,0,2,5,Delivery delays;Fraud/Scams,0,1,1,0,0,Long queues;High prices;Limited product variety;Distance to stores;Poor customer service,1,1,1,1,1,"Below 10,000","10,000  -  50,000",No,There is no money 
+18-25,Male,"Below 50,000",Tertiary,Never,Frequently,Price,1,0,0,0,0,3,5,High prices,1,0,0,0,0,Poor customer service,0,0,0,0,1,"Below 10,000","Below 10,000",No,
+18-25,Male,"50,000-100,000",Postgraduate,Never,Occasionally ,Price,1,0,0,0,0,1,4,Fraud/Scams;Limited payment options,0,0,1,0,1,Poor customer service,0,0,0,0,1,"Below 10,000","10,000  -  50,000",No,
+18-25,Male,"Below 50,000",Tertiary,Rarely,Frequently,Product variety,0,0,0,1,0,1,5,Delivery delays,0,1,0,0,0,High prices,0,1,0,0,0,"10,000  -  50,000","10,000  -  50,000",No,
+18-25,Male,"Below 50,000",Tertiary,Rarely,Occasionally ,Product variety,0,0,0,1,0,1,5,Delivery delays,0,1,0,0,0,High prices,0,1,0,0,0,"10,000  -  50,000","10,000  -  50,000",No,
+18-25,Male,"50,000-100,000",Tertiary,Rarely,Frequently,Price;Convenience;Trust/Security;Product variety,1,1,1,1,0,4,4,Fraud/Scams;Poor product quality;Limited payment options,0,0,1,1,1,High prices;Limited product variety;Distance to stores;Poor customer service,0,1,1,1,1,"Below 10,000","50,00 - 100,0010",No,Products are highly too inflated.. too expensive 
+18-25,Male,"Below 50,000",Tertiary,Occasionally ,Frequently,Convenience,0,1,0,0,0,3,5,Delivery delays;Poor product quality,0,1,0,1,0,High prices;Distance to stores,0,1,0,1,0,"10,000  -  50,000","Below 10,000",No,
+18-25,Male,"200,001-500,000",Tertiary,Frequently,Frequently,Price;Trust/Security;Product variety;Customer service,1,0,1,1,1,4,4,Delivery delays;Fraud/Scams,0,1,1,0,0,Long queues;Distance to stores;Poor customer service,1,0,0,1,1,"50,00 - 100,0010","10,000  -  50,000",Yes,
+18-25,Male,"50,000-100,000",Tertiary,Rarely,Frequently,Customer service,0,0,0,0,1,3,5,Delivery delays;Fraud/Scams;Poor product quality,0,1,1,1,0,Distance to stores,0,0,0,1,0,"Below 10,000","50,00 - 100,0010",No,
+18-25,Male,"50,000-100,000",Tertiary,Occasionally ,Frequently,Price;Product variety,1,0,0,1,0,5,5,Delivery delays,0,1,0,0,0,High prices;Distance to stores;Poor customer service,0,1,0,1,1,"50,00 - 100,0010","Above 100,0010",Yes,
+18-25,Male,"50,000-100,000",Postgraduate,Rarely,Occasionally ,Convenience,0,1,0,0,0,5,5,High prices;Delivery delays,1,1,0,0,0,Long queues;Distance to stores;Poor customer service,1,0,0,1,1,"10,000  -  50,000","10,000  -  50,000",Yes,
+18-25,Male,"Below 50,000",Tertiary,Occasionally ,Never,Convenience,0,1,0,0,0,4,3,Poor product quality,0,0,0,1,0,Distance to stores,0,0,0,1,0,"10,000  -  50,000","Below 10,000",Yes,
+18-25,Male,"Below 50,000",Tertiary,Rarely,Never,Price,1,0,0,0,0,3,2,Fraud/Scams,0,0,1,0,0,High prices,0,1,0,0,0,"10,000  -  50,000","10,000  -  50,000",No,
+18-25,Female,"Below 50,000",Tertiary,Occasionally ,Frequently,Price;Convenience;Trust/Security;Customer service,1,1,1,0,1,4,5,Poor product quality,0,0,0,1,0,Distance to stores,0,0,0,1,0,"Below 10,000","10,000  -  50,000",No,
+18-25,Male,"Below 50,000",Secondary,Rarely,Frequently,Price;Convenience;Trust/Security;Product variety;Customer service,1,1,1,1,1,3,2,Poor product quality,0,0,0,1,0,High prices;Distance to stores;Poor customer service,0,1,0,1,1,"Below 10,000","10,000  -  50,000",Yes,
+Below 18,Female,"50,000-100,000",Tertiary,Rarely,Frequently,Price;Trust/Security;Product variety;Customer service,1,0,1,1,1,4,5,Poor product quality,0,0,0,1,0,Poor customer service,0,0,0,0,1,"Below 10,000","50,00 - 100,0010",No,
+Below 18,Male,"Below 50,000",Tertiary,Never,Rarely,Price;Convenience,1,1,0,0,0,3,3,High prices;Delivery delays;Fraud/Scams,1,1,1,0,0,Long queues;High prices;Distance to stores,1,1,0,1,0,"Below 10,000","10,000  -  50,000",Yes,"God loves you all ☺️😌, I love you too "
+46 and above,Female,"200,001-500,000",Postgraduate,Never,Frequently,Trust/Security;Product variety,0,0,1,1,0,1,4,Delivery delays;Fraud/Scams;Limited payment options,0,1,1,0,1,Long queues;High prices;Distance to stores;Poor customer service,1,1,0,1,1,"10,000  -  50,000","50,00 - 100,0010",No,None
+18-25,Female,"Below 50,000",Secondary,Rarely,Frequently,Convenience,0,1,0,0,0,3,4,Fraud/Scams,0,0,1,0,0,Distance to stores,0,0,0,1,0,"Below 10,000","10,000  -  50,000",Yes,
+18-25,Female,"100,001-200,000",Tertiary,Rarely,Frequently,Trust/Security,0,0,1,0,0,3,5,Poor product quality,0,0,0,1,0,Distance to stores,0,0,0,1,0,"Below 10,000","10,000  -  50,000",No,
+18-25,Female,"Below 50,000",Secondary,Occasionally ,Frequently,Price;Convenience;Trust/Security,1,1,1,0,0,3,4,Fraud/Scams;Poor product quality,0,0,1,1,0,Distance to stores,0,0,0,1,0,"Below 10,000","10,000  -  50,000",No,
+18-25,Male,"Below 50,000",Postgraduate,Occasionally ,Frequently,Product variety,0,0,0,1,0,2,4,Poor product quality,0,0,0,1,0,Poor customer service,0,0,0,0,1,"10,000  -  50,000","50,00 - 100,0010",No,Online isn’t always reliable as there may be defects in the product given. 
+18-25,Male,"200,001-500,000",Tertiary,Frequently,Frequently,Price;Convenience;Trust/Security;Customer service,1,1,1,0,1,4,4,Delivery delays;Fraud/Scams;Poor product quality;Limited payment options,0,1,1,1,1,Distance to stores,0,0,0,1,0,"Above 100,0010","50,00 - 100,0010",Yes,
+18-25,Male,"Below 50,000",Tertiary,Rarely,Frequently,Product variety;Customer service,0,0,0,1,1,4,4,High prices;Poor product quality;Limited payment options,1,0,0,1,1,Distance to stores;Poor customer service,0,0,0,1,1,"Below 10,000","10,000  -  50,000",No,
+18-25,Male,"Below 50,000",Secondary,Rarely,Frequently,Price;Convenience;Trust/Security;Product variety,1,1,1,1,0,2,3,High prices;Delivery delays;Fraud/Scams,1,1,1,0,0,Long queues;Distance to stores;Poor customer service,1,0,0,1,1,"Below 10,000","50,00 - 100,0010",No,
+18-25,Male,"Above 500,000",Tertiary,Frequently,Frequently,Customer service,0,0,0,0,1,5,1,Poor product quality,0,0,0,1,0,Distance to stores,0,0,0,1,0,"Above 100,0010","50,00 - 100,0010",Yes,Nothing really 
+18-25,Male,"Above 500,000",Postgraduate,Frequently,Frequently,Trust/Security;Customer service,0,0,1,0,1,5,5,High prices;Delivery delays,1,1,0,0,0,High prices;Distance to stores,0,1,0,1,0,"Above 100,0010","Above 100,0010",Yes,Opueeh
+46 and above,Female,"Above 500,000",Postgraduate,Occasionally ,Frequently,Price;Trust/Security;Customer service,1,0,1,0,1,3,5,High prices;Delivery delays;Poor product quality,1,1,0,1,0,Long queues;High prices;Distance to stores,1,1,0,1,0,"10,000  -  50,000","10,000  -  50,000",No,
+46 and above,Male,"100,001-200,000",Postgraduate,Rarely,Occasionally ,Convenience,0,1,0,0,0,3,3,High prices,1,0,0,0,0,Limited product variety,0,0,1,0,0,"10,000  -  50,000","10,000  -  50,000",No,No
+26-35,Male,"Below 50,000",Tertiary,Rarely,Occasionally ,Price;Convenience,1,1,0,0,0,3,5,High prices;Delivery delays;Poor product quality,1,1,0,1,0,Limited product variety,0,0,1,0,0,"Below 10,000","10,000  -  50,000",No,
+26-35,Male,"200,001-500,000",Tertiary,Occasionally ,Frequently,Price;Convenience;Trust/Security;Product variety,1,1,1,1,0,3,4,Delivery delays;Fraud/Scams;Poor product quality,0,1,1,1,0,Distance to stores;Poor customer service,0,0,0,1,1,"Below 10,000","Above 100,0010",No,
+26-35,Female,"100,001-200,000",Tertiary,Occasionally ,Frequently,Product variety,0,0,0,1,0,1,5,Delivery delays;Fraud/Scams;Poor product quality,0,1,1,1,0,Distance to stores,0,0,0,1,0,"Above 100,0010","10,000  -  50,000",No,
+18-25,Female,"Below 50,000",Postgraduate,Frequently,Frequently,Price;Convenience;Trust/Security;Product variety;Customer service,1,1,1,1,1,3,5,High prices;Fraud/Scams;Poor product quality,1,0,1,1,0,Limited product variety;Distance to stores;Poor customer service,0,0,1,1,1,"10,000  -  50,000","10,000  -  50,000",Yes,
+18-25,Male,"50,000-100,000",Tertiary,Occasionally ,Frequently,Price,1,0,0,0,0,4,4,Poor product quality,0,0,0,1,0,Distance to stores,0,0,0,1,0,"10,000  -  50,000","10,000  -  50,000",No,
+18-25,Male,"Above 500,000",Tertiary,Occasionally ,Occasionally ,Convenience;Product variety;Customer service,0,1,0,1,1,4,4,High prices;Delivery delays;Fraud/Scams;Poor product quality;Limited payment options,1,1,1,1,1,High prices;Distance to stores;Poor customer service,0,1,0,1,1,"Above 100,0010","Above 100,0010",Yes,We can do better 
+18-25,Male,"Below 50,000",Tertiary,Rarely,Frequently,Price;Convenience;Trust/Security;Customer service,1,1,1,0,1,3,4,High prices;Delivery delays;Poor product quality,1,1,0,1,0,Limited product variety;Poor customer service,0,0,1,0,1,"10,000  -  50,000","50,00 - 100,0010",No,
+18-25,Female,"50,000-100,000",Tertiary,Occasionally ,Frequently,Convenience;Customer service,0,1,0,0,1,3,5,High prices;Delivery delays;Fraud/Scams;Poor product quality,1,1,1,1,0,Limited product variety;Distance to stores,0,0,1,1,0,"10,000  -  50,000","50,00 - 100,0010",No,
+18-25,Female,"Below 50,000",Tertiary,Occasionally ,Frequently,Price;Trust/Security,1,0,1,0,0,4,5,High prices;Poor product quality,1,0,0,1,0,Distance to stores;Poor customer service,0,0,0,1,1,"Below 10,000","10,000  -  50,000",Yes,Nil
+26-35,Female,"200,001-500,000",Tertiary,Frequently,Occasionally ,Price;Convenience;Trust/Security;Product variety;Customer service,1,1,1,1,1,4,5,High prices;Delivery delays;Poor product quality,1,1,0,1,0,Long queues;Limited product variety;Distance to stores,1,0,1,1,0,"10,000  -  50,000","50,00 - 100,0010",Yes,Nothing 
+18-25,Female,"100,001-200,000",Postgraduate,Occasionally ;Frequently,Rarely,Convenience,0,1,0,0,0,3,3,Delivery delays,0,1,0,0,0,Long queues,1,0,0,0,0,"10,000  -  50,000","Below 10,000",Yes,No
+26-35,Male,"50,000-100,000",Postgraduate,Rarely,Frequently,Price;Trust/Security;Product variety,1,0,1,1,0,3,5,Delivery delays;Fraud/Scams;Poor product quality,0,1,1,1,0,Long queues;Distance to stores,1,0,0,1,0,"10,000  -  50,000","50,00 - 100,0010",No,
+18-25,Female,"Below 50,000",Tertiary,Never,Occasionally ,Price;Convenience;Trust/Security,1,1,1,0,0,1,5,High prices;Delivery delays;Fraud/Scams;Poor product quality,1,1,1,1,0,Long queues;Distance to stores;Poor customer service,1,0,0,1,1,"Below 10,000","Below 10,000",No,
+26-35,Male,"100,001-200,000",Tertiary,Occasionally ,Frequently,Convenience,0,1,0,0,0,3,3,Delivery delays,0,1,0,0,0,Distance to stores,0,0,0,1,0,"10,000  -  50,000","50,00 - 100,0010",Yes,
+26-35,Female,"Below 50,000",Tertiary,Rarely,Occasionally ,Price,1,0,0,0,0,3,4,Delivery delays,0,1,0,0,0,Distance to stores,0,0,0,1,0,"10,000  -  50,000","10,000  -  50,000",No,
+18-25,Female,"Below 50,000",Postgraduate,Rarely,Occasionally ,Price;Convenience;Trust/Security;Product variety;Customer service,1,1,1,1,1,3,4,High prices;Delivery delays;Fraud/Scams;Poor product quality;Limited payment options,1,1,1,1,1,Long queues;Limited product variety;Distance to stores,1,0,1,1,0,"Below 10,000","10,000  -  50,000",No,
+18-25,Male,"200,001-500,000",Tertiary,Frequently,Rarely,Price;Convenience;Trust/Security,1,1,1,0,0,2,3,Fraud/Scams,0,0,1,0,0,Limited product variety;Distance to stores,0,0,1,1,0,"50,00 - 100,0010","10,000  -  50,000",Yes,
+18-25,Female,"100,001-200,000",Tertiary,Frequently,Frequently,Price;Convenience;Trust/Security;Product variety;Customer service,1,1,1,1,1,5,5,Fraud/Scams,0,0,1,0,0,Long queues;Poor customer service,1,0,0,0,1,"10,000  -  50,000","10,000  -  50,000",Yes,
+18-25,Male,"Below 50,000",Tertiary,Rarely,Frequently,Price;Trust/Security;Customer service,1,0,1,0,1,2,5,High prices;Delivery delays;Fraud/Scams;Poor product quality,1,1,1,1,0,Distance to stores,0,0,0,1,0,"Below 10,000","10,000  -  50,000",No,Poor customer service is a major reason why most people won't resort to online shopping.
+18-25,Female,"Below 50,000",Tertiary,Occasionally ,Frequently,Price;Convenience,1,1,0,0,0,3,4,Delivery delays;Poor product quality,0,1,0,1,0,Distance to stores;Poor customer service,0,0,0,1,1,"Below 10,000","10,000  -  50,000",Yes,Nil
+26-35,Male,"100,001-200,000",Tertiary,Never,Frequently,Convenience,0,1,0,0,0,1,5,Delivery delays;Fraud/Scams,0,1,1,0,0,Distance to stores,0,0,0,1,0,"Below 10,000","50,00 - 100,0010",No,
+18-25,Male,"Below 50,000",Tertiary,Occasionally ,Frequently,Price;Convenience;Trust/Security;Product variety,1,1,1,1,0,3,5,Delivery delays;Fraud/Scams;Limited payment options,0,1,1,0,1,Limited product variety;Distance to stores,0,0,1,1,0,"Below 10,000","10,000  -  50,000",No,
+18-25,Female,"Below 50,000",Tertiary,Rarely,Frequently,Price;Trust/Security,1,0,1,0,0,3,4,Fraud/Scams;Poor product quality,0,0,1,1,0,Distance to stores,0,0,0,1,0,"Below 10,000","50,00 - 100,0010",Yes,
+18-25,Female,"50,000-100,000",Tertiary,Rarely,Rarely,Price;Convenience;Trust/Security;Product variety;Customer service,1,1,1,1,1,4,4,High prices;Delivery delays;Poor product quality,1,1,0,1,0,Limited product variety;Distance to stores;Poor customer service,0,0,1,1,1,"10,000  -  50,000","10,000  -  50,000",Yes,
+36 - 45,Male,"100,001-200,000",Postgraduate,Occasionally ,Frequently,Trust/Security,0,0,1,0,0,1,5,Fraud/Scams,0,0,1,0,0,Poor customer service,0,0,0,0,1,"50,00 - 100,0010","50,00 - 100,0010",Yes,
+18-25,Female,"Below 50,000",Postgraduate,Rarely,Frequently,Product variety,0,0,0,1,0,5,5,High prices,1,0,0,0,0,Long queues,1,0,0,0,0,"Below 10,000","50,00 - 100,0010",No,No
+18-25,Male,"Above 500,000",Tertiary,Rarely,Frequently,Price;Convenience;Trust/Security;Customer service,1,1,1,0,1,3,4,Delivery delays;Fraud/Scams;Poor product quality,0,1,1,1,0,Limited product variety;Distance to stores;Poor customer service,0,0,1,1,1,"10,000  -  50,000","Above 100,0010",Yes,
+26-35,Male,"50,000-100,000",Tertiary,Rarely,Rarely,Convenience,0,1,0,0,0,2,2,Delivery delays,0,1,0,0,0,Limited product variety,0,0,1,0,0,"Below 10,000","Below 10,000",Yes,Online shopping is really good if service not bad.
+26-35,Female,"Above 500,000",Tertiary,Frequently,Occasionally ,Price;Convenience,1,1,0,0,0,3,4,Delivery delays,0,1,0,0,0,Long queues;High prices;Limited product variety,1,1,1,0,0,"Above 100,0010","50,00 - 100,0010",Yes,
+46 and above,Male,"Below 50,000",Secondary,Never,Occasionally ,Price;Convenience;Trust/Security,1,1,1,0,0,1,5,Fraud/Scams,0,0,1,0,0,High prices;Distance to stores;Poor customer service,0,1,0,1,1,"Below 10,000","10,000  -  50,000",No,Nil
+18-25,Female,"Below 50,000",Tertiary,Rarely,Frequently,Price;Trust/Security;Product variety,1,0,1,1,0,2,5,Delivery delays;Poor product quality,0,1,0,1,0,Distance to stores,0,0,0,1,0,"Below 10,000","10,000  -  50,000",No,I prefer offline shopping because with offline I will see what I want to buy compared to online that camera use to deceive.
+18-25,Female,"Below 50,000",Tertiary,Occasionally ,Rarely,Product variety,0,0,0,1,0,5,4,High prices;Poor product quality,1,0,0,1,0,High prices;Limited product variety;Distance to stores,0,1,1,1,0,"Below 10,000","Below 10,000",Yes,
+18-25,Male,"Below 50,000",Tertiary,Never,Occasionally ,Price;Convenience;Trust/Security,1,1,1,0,0,2,4,Poor product quality,0,0,0,1,0,High prices;Limited product variety,0,1,1,0,0,"Below 10,000","10,000  -  50,000",No,Offline shopping assures the product quality
+18-25,Female,"200,001-500,000",Tertiary,Rarely,Frequently,Price;Convenience;Trust/Security;Product variety;Customer service,1,1,1,1,1,2,4,High prices;Fraud/Scams;Poor product quality,1,0,1,1,0,Long queues;High prices;Distance to stores;Poor customer service,1,1,0,1,1,"10,000  -  50,000","50,00 - 100,0010",Yes,"If online shopping can be trustworthy and reliable, the convince would be an additional reason as to why online is preferable. "
+Below 18,Female,"Below 50,000",Tertiary,Rarely,Frequently,Customer service,0,0,0,0,1,3,5,Delivery delays;Fraud/Scams,0,1,1,0,0,Distance to stores;Poor customer service,0,0,0,1,1,"Below 10,000","10,000  -  50,000",No,
+18-25,Male,"Below 50,000",Tertiary,Rarely,Frequently,Price;Convenience,1,1,0,0,0,2,4,High prices;Fraud/Scams;Poor product quality,1,0,1,1,0,Poor customer service,0,0,0,0,1,"Below 10,000","10,000  -  50,000",No,
+26-35,Female,"Below 50,000",Tertiary,Occasionally ,Frequently,Trust/Security,0,0,1,0,0,2,5,Fraud/Scams,0,0,1,0,0,Long queues;Limited product variety;Distance to stores,1,0,1,1,0,"10,000  -  50,000","50,00 - 100,0010",No,
+26-35,Male,"100,001-200,000",Tertiary,Frequently,Frequently,Price;Trust/Security;Product variety;Customer service,1,0,1,1,1,5,5,High prices;Fraud/Scams,1,0,1,0,0,High prices;Limited product variety;Poor customer service,0,1,1,0,1,"10,000  -  50,000","10,000  -  50,000",Yes,Nope 
+18-25,Male,"Above 500,000",Tertiary,Occasionally ,Frequently,Price;Convenience;Trust/Security;Product variety;Customer service,1,1,1,1,1,3,4,Delivery delays;Poor product quality,0,1,0,1,0,Limited product variety,0,0,1,0,0,"Above 100,0010","Above 100,0010",No,
+26-35,Male,"50,000-100,000",Tertiary,Occasionally ,Frequently,Product variety,0,0,0,1,0,3,5,High prices,1,0,0,0,0,Distance to stores,0,0,0,1,0,"10,000  -  50,000","50,00 - 100,0010",No,
+18-25,Female,"Below 50,000",Postgraduate,Rarely;Occasionally ,Frequently,Price;Convenience;Trust/Security,1,1,1,0,0,3,5,Delivery delays;Poor product quality,0,1,0,1,0,Long queues;Distance to stores,1,0,0,1,0,"10,000  -  50,000","10,000  -  50,000",No,
+18-25,Female,"Above 500,000",Tertiary,Frequently,Frequently,Price;Convenience;Trust/Security;Product variety;Customer service,1,1,1,1,1,3,4,High prices;Delivery delays;Fraud/Scams,1,1,1,0,0,Limited product variety;Distance to stores;Poor customer service,0,0,1,1,1,"50,00 - 100,0010","50,00 - 100,0010",No,
+18-25,Female,"Below 50,000",Tertiary,Rarely,Frequently,Price,1,0,0,0,0,1,2,Delivery delays,0,1,0,0,0,Distance to stores,0,0,0,1,0,"10,000  -  50,000","10,000  -  50,000",No,
+18-25,Male,"50,000-100,000",Secondary,Occasionally ,Frequently,Price;Convenience;Trust/Security;Product variety;Customer service,1,1,1,1,1,4,4,High prices;Poor product quality,1,0,0,1,0,Limited product variety;Distance to stores,0,0,1,1,0,"Below 10,000","10,000  -  50,000",No,
+18-25,Female,"Below 50,000",Tertiary,Rarely,Occasionally ,Product variety,0,0,0,1,0,3,3,Delivery delays;Fraud/Scams,0,1,1,0,0,Distance to stores,0,0,0,1,0,"Below 10,000","Below 10,000",Yes,
+18-25,Male,"100,001-200,000",Tertiary,Rarely,Frequently,Trust/Security;Customer service,0,0,1,0,1,3,4,Delivery delays;Fraud/Scams;Poor product quality,0,1,1,1,0,Long queues;Distance to stores;Poor customer service,1,0,0,1,1,"Below 10,000","50,00 - 100,0010",No,
+18-25,Female,"50,000-100,000",Tertiary,Rarely,Frequently,Trust/Security,0,0,1,0,0,1,5,Poor product quality,0,0,0,1,0,Poor customer service,0,0,0,0,1,"10,000  -  50,000","50,00 - 100,0010",Yes,
+18-25,Male,"50,000-100,000",Tertiary,Occasionally ,Frequently,Trust/Security;Product variety,0,0,1,1,0,3,4,High prices;Delivery delays;Fraud/Scams,1,1,1,0,0,Distance to stores,0,0,0,1,0,"10,000  -  50,000","10,000  -  50,000",No,
+18-25,Female,"Below 50,000",Secondary,Rarely,Frequently,Price;Convenience;Trust/Security;Product variety;Customer service,1,1,1,1,1,3,5,High prices;Delivery delays;Fraud/Scams;Poor product quality,1,1,1,1,0,Distance to stores,0,0,0,1,0,"10,000  -  50,000","50,00 - 100,0010",No,
+18-25,Male,"Below 50,000",Tertiary,Frequently,Rarely,Price;Convenience;Trust/Security;Customer service,1,1,1,0,1,4,5,High prices;Delivery delays;Fraud/Scams,1,1,1,0,0,Distance to stores,0,0,0,1,0,"50,00 - 100,0010","10,000  -  50,000",No,
+18-25,Female,"200,001-500,000",Tertiary,Rarely,Frequently,Price;Trust/Security;Product variety,1,0,1,1,0,2,5,High prices;Delivery delays;Fraud/Scams;Poor product quality,1,1,1,1,0,Distance to stores,0,0,0,1,0,"Below 10,000","Above 100,0010",No,No
+18-25,Female,"Below 50,000",Tertiary,Never,Rarely,Price;Convenience,1,1,0,0,0,1,4,High prices;Poor product quality;Limited payment options,1,0,0,1,1,Distance to stores;Poor customer service,0,0,0,1,1,"Below 10,000","Below 10,000",No,
+18-25,Male,"100,001-200,000",Postgraduate,Frequently,Occasionally ,Convenience;Trust/Security,0,1,1,0,0,5,4,Fraud/Scams;Poor product quality,0,0,1,1,0,High prices;Distance to stores,0,1,0,1,0,"50,00 - 100,0010","10,000  -  50,000",Yes,
+18-25,Male,"Below 50,000",Tertiary,Never,Occasionally ,Price;Trust/Security;Product variety,1,0,1,1,0,2,4,Poor product quality,0,0,0,1,0,Distance to stores,0,0,0,1,0,"Below 10,000","10,000  -  50,000",No,
+18-25,Female,"Below 50,000",Tertiary,Never,Frequently,Price;Trust/Security;Product variety;Customer service,1,0,1,1,1,1,5,High prices;Delivery delays;Fraud/Scams,1,1,1,0,0,Limited product variety;Distance to stores;Poor customer service,0,0,1,1,1,"Below 10,000","10,000  -  50,000",No,
+18-25,Female,"Below 50,000",Secondary,Frequently,Frequently,Price;Convenience;Product variety,1,1,0,1,0,3,3,Delivery delays;Poor product quality,0,1,0,1,0,Distance to stores;Poor customer service,0,0,0,1,1,"10,000  -  50,000","10,000  -  50,000",No,
+18-25,Female,"Below 50,000",Tertiary,Rarely,Frequently,Trust/Security,0,0,1,0,0,4,5,High prices;Delivery delays;Fraud/Scams;Poor product quality,1,1,1,1,0,High prices;Poor customer service,0,1,0,0,1,"10,000  -  50,000","Above 100,0010",Yes,No
+18-25,Female,"100,001-200,000",Postgraduate,Never,Occasionally ,Trust/Security,0,0,1,0,0,3,5,Poor product quality,0,0,0,1,0,Distance to stores,0,0,0,1,0,"Below 10,000","Below 10,000",No,
+18-25,Male,"Below 50,000",Tertiary,Rarely,Frequently,Price;Convenience;Trust/Security,1,1,1,0,0,3,5,Delivery delays;Poor product quality,0,1,0,1,0,Limited product variety;Poor customer service,0,0,1,0,1,"10,000  -  50,000","50,00 - 100,0010",No,
+18-25,Female,"50,000-100,000",Tertiary,Occasionally ,Frequently,Price;Convenience;Trust/Security;Product variety;Customer service,1,1,1,1,1,4,5,High prices;Delivery delays;Fraud/Scams;Poor product quality,1,1,1,1,0,Distance to stores;Poor customer service,0,0,0,1,1,"10,000  -  50,000","10,000  -  50,000",Yes,
+18-25,Male,"Below 50,000",Secondary,Never,Occasionally ,Price,1,0,0,0,0,3,4,High prices,1,0,0,0,0,Distance to stores,0,0,0,1,0,"Below 10,000","10,000  -  50,000",No,
+18-25,Female,"Below 50,000",Secondary,Occasionally ,Frequently,Product variety,0,0,0,1,0,4,4,Delivery delays;Poor product quality,0,1,0,1,0,Limited product variety;Distance to stores,0,0,1,1,0,"10,000  -  50,000","10,000  -  50,000",Yes,
+18-25,Male,"Below 50,000",Tertiary,Occasionally ,Frequently,Price;Convenience;Trust/Security,1,1,1,0,0,4,4,Delivery delays;Limited payment options,0,1,0,0,1,Long queues;Distance to stores,1,0,0,1,0,"Below 10,000","10,000  -  50,000",No,I prefer buying gadgets and phone accessories mostly online.
+18-25,Male,"100,001-200,000",Tertiary,Occasionally ,Frequently,Convenience;Trust/Security;Product variety,0,1,1,1,0,3,4,Delivery delays;Fraud/Scams;Poor product quality,0,1,1,1,0,Distance to stores;Poor customer service,0,0,0,1,1,"Above 100,0010","50,00 - 100,0010",No,
+18-25,Male,"50,000-100,000",Tertiary,Frequently,Frequently,Price;Convenience;Trust/Security;Product variety;Customer service,1,1,1,1,1,4,3,Delivery delays;Limited payment options,0,1,0,0,1,Limited product variety;Distance to stores;Poor customer service,0,0,1,1,1,"Below 10,000;10,000  -  50,000","10,000  -  50,000",Yes,
+26-35,Male,"50,000-100,000",Tertiary,Rarely,Never,Product variety,0,0,0,1,0,3,4,Limited payment options,0,0,0,0,1,Limited product variety,0,0,1,0,0,"Below 10,000","10,000  -  50,000",No,
+18-25,Male,"100,001-200,000",Tertiary,Rarely,Frequently,Trust/Security;Product variety,0,0,1,1,0,2,4,Delivery delays;Fraud/Scams,0,1,1,0,0,Poor customer service,0,0,0,0,1,"10,000  -  50,000","10,000  -  50,000",No,
+18-25,Male,"Below 50,000",Tertiary,Occasionally ,Frequently,Price;Convenience;Trust/Security;Product variety;Customer service,1,1,1,1,1,4,4,Delivery delays,0,1,0,0,0,Long queues;Limited product variety;Poor customer service,1,0,1,0,1,"10,000  -  50,000","10,000  -  50,000",No,It depends on the kind of stuff I want to buy.
+18-25,Female,"Below 50,000",Tertiary,Rarely,Frequently,Convenience,0,1,0,0,0,2,5,Poor product quality,0,0,0,1,0,Distance to stores,0,0,0,1,0,"Below 10,000","10,000  -  50,000",No,Nope 
+18-25,Male,"Below 50,000",Tertiary,Occasionally ;Frequently,Occasionally ;Frequently,Price;Convenience;Product variety,1,1,0,1,0,4,5,High prices,1,0,0,0,0,Long queues;High prices;Limited product variety;Distance to stores;Poor customer service,1,1,1,1,1,"10,000  -  50,000","10,000  -  50,000",Yes,
+18-25,Female,"Below 50,000",Tertiary,Frequently,Frequently,Convenience,0,1,0,0,0,3,3,Delivery delays,0,1,0,0,0,Distance to stores,0,0,0,1,0,"Below 10,000","10,000  -  50,000",Yes,
+18-25,Male,"Above 500,000",Tertiary,Rarely,Frequently,Trust/Security,0,0,1,0,0,3,4,Delivery delays,0,1,0,0,0,Limited product variety,0,0,1,0,0,"10,000  -  50,000","Above 100,0010",No,I do love to shop offline because I get to see exactly what I want and easily make decisions with time 
+Below 18,Male,"Below 50,000",Tertiary,Occasionally ,Frequently,Convenience,0,1,0,0,0,3,5,Fraud/Scams,0,0,1,0,0,Limited product variety,0,0,1,0,0,"10,000  -  50,000","10,000  -  50,000",No,
+26-35,Male,"100,001-200,000",Postgraduate,Occasionally ,Frequently,Price;Convenience,1,1,0,0,0,4,5,Delivery delays;Fraud/Scams;Poor product quality,0,1,1,1,0,Long queues;Distance to stores,1,0,0,1,0,"10,000  -  50,000","10,000  -  50,000",No,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,High_Price,Delivery delays,Fraud/Scams,Poor product quality,Limited Payment Options,,,,,,,,,
+,,,,,,,,,,,,,,,Absent,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,Present,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,high,45,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,delivery,43,,,,,,,,,,,,
